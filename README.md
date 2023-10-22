@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Codewars](https://github.r2v.ch/codewars?user=rsschool_1da46483d5d9e2be&top_languages=true)
+
 <!--
 **Yuriy113/Yuriy113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
